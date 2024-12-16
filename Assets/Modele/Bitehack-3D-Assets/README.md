@@ -1,0 +1,2 @@
+# Bitehack
+Założenia

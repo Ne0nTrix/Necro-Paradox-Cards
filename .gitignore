@@ -1,0 +1,51 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider specific
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.userprefs
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Version control specific
+*.meta
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.log
+*.bak
+*.swp
+*.lock
+*.ilk
+*.pdb
+*.obj
+*.dylib
+*.class
+*.tmp
+*.idb
+*.lib
+*.a
+*.dll
+*.exe
+*.app
+*.prefs
+
+# Unity Asset Store files
+*.unitypackage
+
+# Crashlytics generated files
+crashlytics-build.properties
+fabric.properties
